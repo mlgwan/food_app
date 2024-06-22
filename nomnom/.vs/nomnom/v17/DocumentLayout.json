@@ -1,52 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\g-wan\\code\\c#\\food_app\\nomnom\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{21700AE3-23F7-4D57-87D4-A601343ECF43}|nomnom.api.csproj|c:\\users\\g-wan\\code\\c#\\food_app\\nomnom\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21700AE3-23F7-4D57-87D4-A601343ECF43}|nomnom.api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E952548-45AE-4708-99AC-2D7F7AF2071D}|..\\nomnom.app\\nomnom.app.csproj|c:\\users\\g-wan\\code\\c#\\food_app\\nomnom.app\\nomnom.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\g-wan\\code\\c#\\food_app\\nomnom\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\g-wan\\code\\c#\\food_app\\nomnom\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T19:33:51.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nomnom.app",
-              "DocumentMoniker": "C:\\Users\\g-wan\\code\\c#\\food_app\\nomnom.app\\nomnom.app.csproj",
-              "RelativeDocumentMoniker": "..\\nomnom.app\\nomnom.app.csproj",
-              "ToolTip": "C:\\Users\\g-wan\\code\\c#\\food_app\\nomnom.app\\nomnom.app.csproj",
-              "RelativeToolTip": "..\\nomnom.app\\nomnom.app.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-22T19:33:22.3Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
